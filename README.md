@@ -151,10 +151,6 @@ Built with love and logic by Raghvendra Singh
 ⚡ "This backend isn’t just functional — it’s strategic, clean, and crafted to show engineering maturity."
 
 yaml
-Copy
-Edit
 
----
 
-✅ **Paste this directly into your `README.md`** file on GitHub.  
-Want me to include **custom badges**, a **demo GIF**, or **interactive Swagger JSON samples**? Just say 
+
